@@ -2,7 +2,11 @@ package com.pensasha.contract.client;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
-import lombok.*;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
 @Entity
