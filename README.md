@@ -82,3 +82,12 @@ The application uses MySQL as the default database. Update the `application.prop
 spring.datasource.url=jdbc:mysql://localhost:3306/contract
 spring.datasource.username=root
 spring.datasource.password=secret
+```
+
+## Contributing
+
+Feel free to contribute to the project. Fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
