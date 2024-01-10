@@ -33,13 +33,13 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/stock-portfolio-management.git
+    git clone https://github.com/Sobunge/contract.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd stock-portfolio-management
+    cd contract
     ```
 
 3. Build the project using Maven:
@@ -51,7 +51,7 @@ Make sure you have the following installed:
 4. Run the application:
 
     ```bash
-    java -jar target/stock-portfolio-management-1.0.0.jar
+    java -jar target/contract-1.0.0.jar
     ```
 
 5. Access the application at [http://localhost:8080](http://localhost:8080)
@@ -79,6 +79,6 @@ For more details, refer to the API documentation.
 The application uses MySQL as the default database. Update the `application.properties` file with your database configuration.
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/stockdb
+spring.datasource.url=jdbc:mysql://localhost:3306/contract
 spring.datasource.username=root
 spring.datasource.password=secret
